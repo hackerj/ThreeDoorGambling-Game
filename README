@@ -1,0 +1,32 @@
+-----------------
+Let's Make A Deal
+-----------------
+Class: Discrete Math CS 55 
+Authors: Jessie Liu, CMC; Szeyin Lee, SCR; Siyao Xie, PO
+Version: 2.0 using Python 2.7, Pygame 1.9
+
+-----------------
+Running the Game
+------------------
+The game should be cross platform, and is tested on Ubuntu Linux, Windows and Mac OS X. However,
+in order to run the game as script, you will need to install:
+ - Python 2.7: http://www.python.org/getit/releases/2.7/
+
+ - Pygame (v1.9.1 or compatible):  http://www.pygame.org/download.shtml
+ 		- For windows, you should download pygame-1.9.2a0.win32-py2.7.msi
+		- For mac lion, you should download pygame-1.9.2pre-py2.7-macosx10.7.mpkg.zip
+		- For mac leopard, you should download pygame-1.9.2pre-py2.6-macosx10.6.mpkg.zip
+
+After downloading the above requirements, go to your Terminal (for mac and linux users)
+$cd Gambling
+$python main.py
+
+You should be able to choose the desired game and play.
+ENJOY!
+
+-----------------------
+Source Code Explanation (For Homework!)
+-----------------------
+The only two files that are related to compute the probability of the game are: Auto1.py and Auto2.py
+The source code should be easy to understand as comments are properly in place.
+
